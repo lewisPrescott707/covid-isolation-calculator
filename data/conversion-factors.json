@@ -1,0 +1,18 @@
+{
+    "car": [{
+        "fuel": "petrol",
+        "CO2kg": "0.28991"
+    },
+    {
+        "fuel": "diesel",
+        "CO2kg": "0.27603"
+    },
+    {
+        "fuel": "hybrid",
+        "CO2kg": "0.18259"
+    },
+    {
+        "fuel": "electric",
+        "CO2kg": "0.0"
+    }]
+}
